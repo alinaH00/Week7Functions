@@ -1,0 +1,14 @@
+C:\Users\alina\source\repos\Week7Functions\CalculatorWithFunctions\obj\Debug\net6.0\CalculatorWithFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alina\source\repos\Week7Functions\CalculatorWithFunctions\obj\Debug\net6.0\CalculatorWithFunctions.AssemblyInfoInputs.cache
+C:\Users\alina\source\repos\Week7Functions\CalculatorWithFunctions\obj\Debug\net6.0\CalculatorWithFunctions.AssemblyInfo.cs
+C:\Users\alina\source\repos\Week7Functions\CalculatorWithFunctions\obj\Debug\net6.0\CalculatorWithFunctions.csproj.CoreCompileInputs.cache
+C:\Users\alina\source\repos\Week7Functions\CalculatorWithFunctions\bin\Debug\net6.0\CalculatorWithFunctions.exe
+C:\Users\alina\source\repos\Week7Functions\CalculatorWithFunctions\bin\Debug\net6.0\CalculatorWithFunctions.deps.json
+C:\Users\alina\source\repos\Week7Functions\CalculatorWithFunctions\bin\Debug\net6.0\CalculatorWithFunctions.runtimeconfig.json
+C:\Users\alina\source\repos\Week7Functions\CalculatorWithFunctions\bin\Debug\net6.0\CalculatorWithFunctions.dll
+C:\Users\alina\source\repos\Week7Functions\CalculatorWithFunctions\bin\Debug\net6.0\CalculatorWithFunctions.pdb
+C:\Users\alina\source\repos\Week7Functions\CalculatorWithFunctions\obj\Debug\net6.0\CalculatorWithFunctions.dll
+C:\Users\alina\source\repos\Week7Functions\CalculatorWithFunctions\obj\Debug\net6.0\refint\CalculatorWithFunctions.dll
+C:\Users\alina\source\repos\Week7Functions\CalculatorWithFunctions\obj\Debug\net6.0\CalculatorWithFunctions.pdb
+C:\Users\alina\source\repos\Week7Functions\CalculatorWithFunctions\obj\Debug\net6.0\CalculatorWithFunctions.genruntimeconfig.cache
+C:\Users\alina\source\repos\Week7Functions\CalculatorWithFunctions\obj\Debug\net6.0\ref\CalculatorWithFunctions.dll
